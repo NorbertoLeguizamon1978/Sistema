@@ -1,1 +1,1 @@
-# Sistema
+# Sistema de registro
